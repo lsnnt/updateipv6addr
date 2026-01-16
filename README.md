@@ -222,7 +222,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgments
 
-- IP detection powered by [ip.se](https://ip.se/)
+- IP detection powered by [v6 ident](https://v6.ident.me/)
 - DNS updates via [Cloudflare API](https://developers.cloudflare.com/api/)
 - Cloudflare DNS Records API: https://developers.cloudflare.com/api/operations/dns-records-for-a-zone-create-dns-record
 
