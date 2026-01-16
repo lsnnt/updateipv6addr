@@ -10,7 +10,7 @@ async fn getip() -> String {
         "curl/8.7.1".parse().unwrap(),
     );
     let client = Client::builder().default_headers(headers).build().unwrap();
-    let response = client.get("https://ip.se/")
+    let response = client.get("https://v6.ident.me/")
         .send()
         .await
         .unwrap()
